@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/your_primary_color</item>
+        <item name="colorPrimaryContainer">@color/your_primary_container</item>
+        <item name="colorSecondary">@color/your_secondary_color</item>
+        <item name="colorSecondaryContainer">@color/your_secondary_container</item>
+        <item name="colorSurface">@color/your_surface_color</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+
+
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+</resources>

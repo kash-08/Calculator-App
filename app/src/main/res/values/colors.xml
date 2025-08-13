@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bar_color">#FFFF5722</color>
+    <color name="text_color">#FF000000</color>
+    <color name="background_color">#FFFFFFFF</color>
+    <color name="orange">#FFFF5722</color>
+    <color name="green">#53C639</color>
+    <color name="red">#FFD32F2F</color>
+    <color name="btn_background">#F5F5F5</color>
+    <color name="btn_text">#212121</color>
+    <color name="btn_c_bg_dark">#F8D7DA</color>   <!-- light red fallback -->
+    <color name="btn_c_text_dark">#C62828</color> <!-- red text fallback -->
+
+    <color name="btn_equal">#4CAF50</color>
+    <color name="switchThumb">#FFFF5722</color>
+    <color name="switchTrack">#FFFAAE97</color>
+    <color name="status_bar_orange">#FF5722</color> <!-- current orange -->
+    <color name="toolbar_orange">#E64A19</color>
+    <color name="your_primary_color">#FF5722</color> <!-- Darker orange -->
+    <color name="your_primary_container">#E64A19</color>
+    <color name="your_secondary_color">#FFC107</color>
+    <color name="your_secondary_container">#FFA000</color>
+    <color name="your_surface_color">#FFFFFF</color>
+    <color name="colorPrimary">#FF5722</color> <!-- Orange -->
+    <color name="colorPrimaryDark">#E64A19</color> <!-- Darker orange -->
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bar_color">#FF000000</color>
+    <color name="background_color">#FF000000</color>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="orange">#FFFF5722</color>
+    <color name="green">#53C639</color>
+    <color name="red">#FFD32F2F</color>
+    <color name="btn_background">#424242</color>
+    <color name="btn_text">#FFFFFF</color>
+    <color name="btn_operator" tools:ignore="MissingDefaultResource">#FFB74D</color>
+    <color name="btn_equal">#81C784</color>
+    <color name="switchThumb">#FFFF5722</color>
+    <color name="switchTrack">#FFFAAE97</color>
+    <color name="colorPrimary">@color/black</color>
+
+
+
+
+
+</resources>
